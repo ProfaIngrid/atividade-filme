@@ -1,0 +1,48 @@
+.titulo-f img {
+    width: 250px;
+    height: 370px;
+}
+
+.titulo{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-left: 3px red solid;
+    
+}
+
+.titulo-f{
+    margin-bottom: 20px;
+}
+
+.div-titulos{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom: 1px solid rgb(255 255 255 / 23%);
+    margin-bottom: 50px;
+}
+
+.t-center{
+    text-align: center!important;
+}
+
+.div-img{
+    display: flex;
+}
+
+.t-destaque{
+    position: absolute;
+    background: red;
+    width: 85px;
+    height: 20px;
+    display: flex;
+    justify-items: center;
+    border-bottom-right-radius: 10px;
+    justify-content: center;
+}
+
+.t-destaque p {
+    font-size: 13px;
+    margin: 0px
+}
