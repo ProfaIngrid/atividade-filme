@@ -1,5 +1,5 @@
 .titulo-f img {
-    width: 250px;
+     width: 250px;
     height: 370px; 
 }
 
@@ -45,4 +45,23 @@
 .t-destaque p {
     font-size: 13px;
     margin: 0px
+}
+
+.titulo-f{
+    display: flex;
+}
+
+.s-destaque{
+    position: absolute;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3%;
+    width: 4%;
+    border-bottom-right-radius: 8px;
+}
+
+.s-destaque p{
+    margin: 0px;
 }
