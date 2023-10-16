@@ -21,8 +21,8 @@ function Main(){
 
     return(
         <>
-            <Titulo titulo="Filmes" lista={filmes}/>
-            <Titulo titulo="Series" lista={series}/>
+            <Titulo sessao="Filmes" lista={filmes}/>
+            <Titulo sessao="Series" lista={series}/>
         </>
     )
 }

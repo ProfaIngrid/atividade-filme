@@ -1,13 +1,13 @@
 .titulo-f img {
     width: 250px;
-    height: 370px;
+    height: 370px; 
 }
 
 .titulo{
     margin-left: 10%;
     margin-right: 10%;
     border-left: 3px red solid;
-    
+    padding-left: 15px;
 }
 
 .titulo-f{
